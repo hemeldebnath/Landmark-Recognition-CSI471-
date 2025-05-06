@@ -1,7 +1,7 @@
 '''
 IMPLEMENTATION OF ALEXNET
 '''
-from tkinter import Image
+#from tkinter import Image
 
 #Import necessary libraries
 import numpy as np
